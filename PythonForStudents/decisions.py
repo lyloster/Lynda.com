@@ -13,13 +13,21 @@ print(numbersGreaterThanFive)
 #check string equality
 a = "foo"
 b = "foos"
-print(a==b)
-
-for i in numbers:
-	if (i == 4):
-		print("4 is in the list of numbers")
-	if (i == 11):
-		print("11 is not in the list of numbers")
+print(a == b)
 
 
-print("11 is not in the list of numbers")
+# fourIsIn = False
+# for i in numbers:
+# 	if (i == 4):
+# 		fourIsIn = True		
+
+# if (fourIsIn):
+# 	print("4 is in the list of numbers")
+# else:
+# 	print("4 is not in the list of numbers")
+
+
+if (4 in numbers):
+	print("4 is in the list of numbers")
+else:
+	print("4 is not in the list of numbers")
