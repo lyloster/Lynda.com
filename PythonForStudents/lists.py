@@ -1,7 +1,7 @@
 numbers = [1,2,3]
 pizza_toppings = ["cheese", "pepperoni"]
 mixed_list = [1, "cheese", 2, "pepperoni"]
-list_of_lists = [[1,2], [3,4]]
+list_of_lists = [[1,2], [6,4]]
 
 #access individual element
 print(pizza_toppings[0])
