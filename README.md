@@ -5,5 +5,5 @@ List of clases:
 - Python: Data Analysis
 - Python: Python for Students 
 
-##Become a Data scientist
+Become a Data Scientist
 - Statistics Foundations: 1
